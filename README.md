@@ -36,6 +36,9 @@ Uma API REST simples para cadastro de usuários com Java + Spring Boot.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldPassosPB&layout=compact&theme=radical" />
 </p>
 
+![Snake animation](https://github.com/RonaldPassosPB/RonaldPassosPB/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
