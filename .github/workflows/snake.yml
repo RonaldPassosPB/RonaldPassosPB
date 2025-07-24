@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite UTC
+  workflow_dispatch:      # Permite rodar manualmente
+
+permissions:
+  contents: write         # ✅ Permite que a action faça commit/push
 
 jobs:
   generate:
@@ -20,8 +23,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit do resultado
+      - name: Commit e push do resultado
         uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 Atualizando snake"
+          message: "🐍 Atualizando cobrinha do GitHub"
           add: "dist/github-contribution-grid-snake.svg"
