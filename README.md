@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Metrics
-![Metrics](https://github.com/RonaldPassosPB/RonaldPassosPB/blob/generated/metrics.svg)
+![Metrics](https://github.com/RonaldPassosPB/RonaldPassosPB/blob/main/metrics.svg)
 
