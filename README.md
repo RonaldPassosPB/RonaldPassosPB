@@ -60,8 +60,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 🐍 Contribuições animadas
 
-![snake gif](https://github.com/RonaldPassosPB/RonaldPassosPB/blob/output/github-contribution-grid-snake.svg)
-
----
