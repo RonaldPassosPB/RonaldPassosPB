@@ -58,8 +58,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-### 📊 GitHub Metrics
-![Metrics](https://github.com/RonaldPassosPB/RonaldPassosPB/blob/main/metrics.svg)
-
