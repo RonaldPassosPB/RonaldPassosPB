@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite UTC
+  workflow_dispatch:      # Permite rodar manualmente
+
+permissions:
+  contents: write         # ✅ Permite que a action faça commit/push
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Geração do Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RonaldPassosPB
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit e push do resultado
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🐍 Atualizando cobrinha do GitHub"
+          add: "dist/github-contribution-grid-snake.svg"
