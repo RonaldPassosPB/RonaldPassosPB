@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 ---
 
 ### 🏙️ Meu skyline GitHub 3D
-![Skyline GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw2cjz7_a-szl8oRyvv1LzIT&ust=1753457941535000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJist4jq1Y4DFQAAAAAdAAAAABAh)
+![Skyline GitHub]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw2cjz7_a-szl8oRyvv1LzIT&ust=1753457941535000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJist4jq1Y4DFQAAAAAdAAAAABAh](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif))
 
