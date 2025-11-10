@@ -5,7 +5,7 @@ Apaixonado por tecnologia, estou sempre buscando aprender novas ferramentas e fr
 
 ---
 
-### 🛠️ Tecnologias que domino:
+### 🛠️ Tecnologias que estudei:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -19,8 +19,7 @@ Apaixonado por tecnologia, estou sempre buscando aprender novas ferramentas e fr
 ### 📘 Estudando atualmente:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 
 ---
 
